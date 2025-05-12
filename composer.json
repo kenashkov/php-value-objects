@@ -1,0 +1,24 @@
+{
+    "name": "kenashkov/php-value-objects",
+    "type": "library",
+    "description": "Value Objects",
+    "keywords": ["value objects"],
+    "homepage": "https://github.com/kenashkov/php-value-objects",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vesko Kenashkov",
+            "email": "kenashkov@gmail.com",
+            "homepage": "http://kenashkov.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kenashkov\\ValueObjects\\": "src/"
+        }
+    }
+}
