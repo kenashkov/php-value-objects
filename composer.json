@@ -1,5 +1,5 @@
 {
-    "name": "kenashkov/php-value-objects",
+    "name": "kenashkov/value-objects",
     "type": "library",
     "description": "Value Objects",
     "keywords": ["value objects"],
